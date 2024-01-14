@@ -25,7 +25,7 @@ The discord bot uses the following environment variables:
 
 The docker image is available on [GitHub Container Registry](https://github.com/d151l/discordbot/pkgs/container/discordbot)
 
-##### Docker CLI
+#### Docker CLI
 
 ```bash
 docker run -d \
